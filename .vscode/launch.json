@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/hahaha/work/linux",
-      "program": "/home/hahaha/work/linux/build/Debug/outDebug",
+      "cwd": "/home/hahaha/work/my_ls",
+      "program": "/home/hahaha/work/my_ls/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
